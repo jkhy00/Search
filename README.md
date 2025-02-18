@@ -1,5 +1,5 @@
-"# CS188-Project1" 
-"# CS188-Project1" 
+"Helping Pac Man through the maze"
+
 
 
 JOSHUA YOO
